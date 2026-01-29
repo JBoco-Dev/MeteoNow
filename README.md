@@ -16,7 +16,7 @@ MeteoNow est une application météo moderne qui permet de consulter en temps r�
 - 📱 Interface responsive (mobile & desktop)
 
 ## 🛠️ Technologies utilisées
-- **Vue.js 3**
+- **Vue.js 2**
 - **JavaScript (ES6+)**
 - **HTML5 / CSS3**
 - **API OpenWeatherMap**

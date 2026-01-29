@@ -24,7 +24,7 @@ MeteoNow est une application météo moderne qui permet de consulter en temps r�
 
 ## 🚀 Installation en local
 ```bash
-git clone 
+git clone https://github.com/JBoco-Dev/MeteoNow.git
 cd meteonow
 npm install
 npm run serve
